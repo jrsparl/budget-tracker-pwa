@@ -3,7 +3,7 @@
 ## Description
 
 A quick budget tracking web app built as a PWA with offline functionality.
-
+ <img src="/public/assets/screenshot.png">
 
   ## Table of Contents
 
